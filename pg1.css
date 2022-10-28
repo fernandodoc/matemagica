@@ -75,3 +75,16 @@ input {
   
   .show {display: block;}
 
+/*rodapé*/
+  p { 
+    background-color: black;
+    color:#D9D9D9;
+    font-family: monospace;
+    width: 99%;
+    height: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 10px;
+  }
+
